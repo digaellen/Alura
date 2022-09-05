@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Fira Mono', monospace;
+}
+.titulo {
+    margin: 2em;
+}
+
+.descricao {
+    margin: 0.8em;
+}
+
+.rodape {
+    font-size: 12px;
+    position: fixed;
+    margin: 12px;
+    bottom: 0;
+}
+ 
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
